@@ -1,0 +1,35 @@
+# Godot 4+ — cache éditeur (régénéré localement)
+.godot/
+
+# Builds / export
+/android/
+/ios/
+/web/
+/export/
+*.apk
+*.aab
+*.ipa
+*.pck
+*.zip
+
+# Godot — traductions générées automatiquement
+*.translation
+
+# C# / Mono (si utilisé plus tard)
+.mono/
+data_*/
+mono_crash.*.json
+
+# IDE & outils
+.vscode/
+*.code-workspace
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*~
+*.swp
+*.swo
