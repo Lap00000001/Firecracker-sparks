@@ -27,8 +27,8 @@ Le dépôt est volontairement simple au départ : une base saine (Git, `.gitigno
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/Lap00000001/firecracker-sparks.git
-   cd firecracker-sparks
+   git clone https://github.com/Lap00000001/Firecracker-sparks.git
+   cd Firecracker-sparks
    ```
 
 2. **Ouvrir dans Godot**
